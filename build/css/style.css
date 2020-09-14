@@ -1,0 +1,247 @@
+/*
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com
+Twitter: @rich_clark
+*/
+
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+body {
+  line-height: 1.5;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+nav ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+
+/* change colours to suit your needs */
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+abbr[title],
+dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* change border colour to suit your needs */
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #cccccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+input,
+select {
+  vertical-align: middle;
+}
+
+@font-face {
+  font-family: 'manropeRegular';
+  src: url(../fonts/Manrope-Regular.otf) format('opentype')
+}
+
+@font-face {
+  font-family: 'manropeBold';
+  src: url(../fonts/Manrope-Bold.otf) format('opentype')
+}
+
+@font-face {
+  font-family: 'manropeLight';
+  src: url(../fonts/Manrope-Light.otf) format('opentype')
+}
+
+@font-face {
+  font-family: 'eightBit';
+  src: url(../fonts/8-BIT.TTF) format('truetype')
+}
+
+body {
+  font-family: 'manropeRegular';
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: inline-block;
+}
+
+.center_align {
+  background-color: #00adb5;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* 
+              palettes 
+  EEEEEE - 2BCED6 - 00adb5 - 393e46 - 222831 
+*/
+
+.bitFont {
+  font-family: 'eightBit';
+}
+
+.title {
+  font-size: 50px;
+}
+
+.main-container {
+  background: #00adb5;
+}
+
+.bg__main {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  background-position: right center;
+  background-size: auto 100vh;
+  background-repeat: no-repeat;
+}
+
+.info {
+  color: #EEEEEE;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 100px 0 0 100px;
+}
+
+
