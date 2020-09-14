@@ -219,7 +219,7 @@ body {
   padding: 10px;
   list-style: none;
   border-top: 1px solid #ccc;
-  background: #ccc;
+  background: #282c34;
 }
 .menu__list {
   display: flex;
