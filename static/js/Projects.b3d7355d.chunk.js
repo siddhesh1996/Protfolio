@@ -1,0 +1,2 @@
+(this.webpackJsonpprofile=this.webpackJsonpprofile||[]).push([[3],{44:function(e,a,t){"use strict";t.r(a);var n=t(0),r=t.n(n),l=t(22);a.default=function(e){return r.a.createElement(r.a.Fragment,null,r.a.createElement("div",{className:"main__wrap"},r.a.createElement("h1",null,"This is Projects Page")),r.a.createElement(l.a,e))}}}]);
+//# sourceMappingURL=Projects.b3d7355d.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpprofile=this.webpackJsonpprofile||[]).push([[2],{41:function(e,a,t){"use strict";t.r(a);var n=t(0),r=t.n(n),l=t(22);a.default=function(e){return r.a.createElement(r.a.Fragment,null,r.a.createElement("div",{className:"main__wrap"},r.a.createElement("h1",null,"This is homepage")),r.a.createElement(l.a,e))}}}]);
+//# sourceMappingURL=Home.9364131b.chunk.js.map
